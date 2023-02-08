@@ -5,7 +5,7 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'Sanity Project',
+  title: 'beauty-shop-cms-v3',
 
   projectId: '7lto3nq2',
   dataset: 'production',
